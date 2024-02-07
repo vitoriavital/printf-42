@@ -1,12 +1,9 @@
 # Printf Project
 
 <p align="center">
-  <img src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" alt="Printf Achievement">
-  <img src="https://res.cloudinary.com/dfjub9qt4/image/upload/v1707314965/ft_printf_42.png" alt="Second Image">
+  <img src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" alt="Printf Achievement" width="200" height="200">
+  <img src="https://res.cloudinary.com/dfjub9qt4/image/upload/v1707314965/ft_printf_42.png" alt="Printf Square" width="200" height="200">
 </p>
-
-
-
 
 ## Introduction
 
