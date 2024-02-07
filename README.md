@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" alt="Printf Achievement">
-  <img src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" alt="Second Image">
+  <img src="https://res.cloudinary.com/dfjub9qt4/image/upload/v1707314965/ft_printf_42.png" alt="Second Image">
 </p>
 
 
