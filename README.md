@@ -1,13 +1,10 @@
 # Printf Project
 
-<div style="text-align: center;">
-  <div style="display: inline-block;">
-    <img src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" alt="Printf Achievement">
-  </div>
-  <div style="display: inline-block;">
-    <img src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" alt="Second Image">
-  </div>
-</div>
+<p align="center">
+  <img src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" alt="Printf Achievement">
+  <img src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" alt="Second Image">
+</p>
+
 
 
 
